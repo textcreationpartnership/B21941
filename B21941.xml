@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of the Lords and Commons assembled in Parliament for the disarming of all popish recusants, and that it shall be lawfull for any of His Majesties subjects to seize upon the persons of all such as shall execute the illegall Commission</title>
+            <title>Declaration of the Lords and Commons assembled in Parliament, whereby the good subjects of this kingdome may better discerne their owne danger</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B21941</idno><idno type="EEBO-CITATION">12272563</idno>
+  <idno type="VID">197542</idno>
+  <idno type="EEBO-PROQUEST">2240973903</idno>
+  
+            <idno type="STC">Wing E1414</idno>
+            <idno type="OCLC">12272563</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B21941)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 197542)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 247:E114, no 7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of the Lords and Commons assembled in Parliament for the disarming of all popish recusants, and that it shall be lawfull for any of His Majesties subjects to seize upon the persons of all such as shall execute the illegall Commission</title>
+                  <title>Declaration of the Lords and Commons assembled in Parliament, whereby the good subjects of this kingdome may better discerne their owne danger</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by A. N. for Ed. Husbands and I. Franke ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>August 24, 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Earlier editions have title: A declaration of the Lords and Commons assembled in Parliament, whereby the good subiects of this kingdome may better discerne their owne danger.</note>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:197542:1"/>
+            <p> A DECLARATION OF THE Lords and Commons assembled in Parliament, for the disarming of all Popish Recu<g ref="char:EOLhyphen"/>sants, and that it shall be lawfull for any of His Majesties Subjects to seize upon the persons of all such as shall execute the illegall Commission of Array.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Ordered by the Lords and Commons in Parlia<g ref="char:EOLhyphen"/>ment, that this Declaration thus amended be forth-with reprinted.</p>
+                        <closer>
+                           <signed>H. Elsyn. Cler. Parl. Dom. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Together with a Declaration of the Lords and Commons in Parliament that all persons whatsoever, which shall assist his Majesty in this VVar with Horse, Arms, or Mo<g ref="char:EOLhyphen"/>ny, shall be Traytors to his Majesty, the Parliament and Kingdom.</p>
+            <p>LONDON, Printed by <hi>A. N.</hi> for <hi>Ed. Husbands.</hi> and <hi>I. Franke,</hi> and are to be sold at their Shops in the middle Temple, and the next doore to the Kings Head in Fleetstreet.</p>
+            <p>August 24. 1642.</p>
+            <pb facs="tcp:197542:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="declaration">
+            <pb n="1" facs="tcp:197542:2"/>
+            <head>A Declaration of the Lords and Commons in PARLIAMENT.</head>
+            <head type="sub">With some Directions to the Knights, Gentle<g ref="char:EOLhyphen"/>men, and other Inhabitants of <hi>Yorkshire,</hi> and the other Northerne Counties.</head>
+            <p>
+               <seg rend="decorInit">W</seg>E the Lords and Commons in Parliament assembled, have per<g ref="char:EOLhyphen"/>used and seriously considered a Letter sent from many of the principall Knights, Gentlemen, and other Inhabitants of the County of <hi>Yorke:</hi> directed to a worthy Knight of that County, being a Member of the House of Commons, and intended for information of both Houses of Parliament, concerning his Majesties pur<g ref="char:EOLhyphen"/>pose of raising his Standard at <hi>Nottingham,</hi> the present
+<pb n="2" facs="tcp:197542:3"/> state of the Northerne parts, and the growing mis<g ref="char:EOLhyphen"/>chiefs, and miseries like to over-whelme the whole Kingdome, by the great oppressions exercised upon his Majesties Subjects there, and other <gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>law<g ref="char:EOLhyphen"/>full and dangerous councels, and proceedings of those, who under pretence of his Majesties Service, are laying the foundation of an Arbitra<g ref="char:EOLhyphen"/>rie and Tyrannicall Government, or rather confu<g ref="char:EOLhyphen"/>sion and dissolution, not only in those parts, but in the whole Kingdome: upon which and other infor<g ref="char:EOLhyphen"/>mations and discoveries, wee thinke fit to publish and declare some few observations, whereby the good Subjects of this Kingdome may better discerne their own danger, and be stirred up with more eatnestnesse, to assist us in the Maintenance of Religion, and of the common Justice and Liberty of the Kingdome, which seems to be in no lesse hazard, then if we had an Army of the <hi>Irish</hi> Rebels in the bowels of the Land.</p>
+            <p>The first Observation is this, that now it plainly appears to the World, that there was good ground of those Feares and Jealousies so often expressed by both Houses. That His Majesty intended to make War a<g ref="char:EOLhyphen"/>gainst his parliament: and that the many Oaths, pro<g ref="char:EOLhyphen"/>testation, and Execrations published in his Majesties Name, disclayming any such purpose of War, were nothing but the devises of those wicked Councellors about Him, that under such disguises and pretentions of Peace, they might more closely Arme and prepare themselves for VVar, and by violence to suppresse the parliament, and so to make way for the accom<g ref="char:EOLhyphen"/>plishment of their owne designes for the alteration of Religion, and the Government of the Kingdom.</p>
+            <pb n="3" facs="tcp:197542:3"/>
+            <p> The second, that this Warre is said to bee for the Defence of the Protestant Religion, and yet the most diligent Assistants and Promoters of it are Papists, and that corrupt and superstitious part of the Clergy, that were running towards popery: wherein the papists are so fervent, that they not onely send in Horse and Armes, but the better to qualifie their persons for this present service, many heretofore constant Recusants doe now resort to Church, and take the oaths of su<g ref="char:EOLhyphen"/>premacy and alleagiance, and with what affections they looke upon the reformed Religion, is evident in the speeches of those, who robbed M. <hi>Marwoods</hi> house calling his wife protestant whore and puritane, who being a very vertuous Gentlewoman and of good qua<g ref="char:EOLhyphen"/>lity, onely the hatred of Religion was it which provo<g ref="char:EOLhyphen"/>ked them to such ignominious language, which by those popish Cavalieres is prosecuted under the name of Round-head, as it hath beene by the prelaticall Clergy under the name of puritane.</p>
+            <p>A third that Armes are taken from the honest Gent<g ref="char:EOLhyphen"/>lemen, Yeomen and Townsmen, and put into the hands of such desperate persons as cannot live, but by rapine and spoyle.</p>
+            <p>A fourth, that not withstanding all the vowes and protestations to governe by Law, which have beene dispersed throughout the Kingdome to blind and de<g ref="char:EOLhyphen"/>ceive the people, The most mischievous principles of tyranny are practised that ever were invented, that is to disarme the middle sort of people, who are the body of the Kingdome, and to maintaine Souldiers by forced contribution, to create a provinciall government in the North, cleerely against the common Law, and the
+<pb n="4" facs="tcp:197542:4"/> judgement given in this Parliament for taking away the Court at <hi>Yorke,</hi> That the contrivers and instruments of these mischiefes, for their better strengthening in these designes, are about to joyne themselves in an associati<g ref="char:EOLhyphen"/>on with other Counties, That directions are given that such as shall oppose, or not joyne with them, shall bee violently plundered and pillaged.</p>
+            <p>For the prevention of these growing evils, and mis<g ref="char:EOLhyphen"/>chiefes the Lords and Commons doe declare.</p>
+            <p>That all well-affected and good Subjects, who shall be plundred, pillaged, and suffer in their estates by any of the Cavaliers or other Forces raised without con<g ref="char:EOLhyphen"/>sent of Parliament, shall have full reparation of their damages out of the estates of those who have beene actors, and counsellors in such violences, and likewise out of the estates of all such persons in any part of the Kingdome whatsoever, who have withdrawne them<g ref="char:EOLhyphen"/>selves to <hi>Yorke,</hi> and shall persist to serve the King in this war against the Parliament, by any subscription, con<g ref="char:EOLhyphen"/>tribution, or otherwise have given assistance and coun<g ref="char:EOLhyphen"/>tenance to the maintenance thereof.</p>
+            <p>That it shall be lawfull for any number of persons to Joyne together, and to defend themselves and others from Rapine and Force: And the Earle of <hi>Essex</hi> Lord Generall of the forces raised by the Lords and Com<g ref="char:EOLhyphen"/>mons, for the defence of Religion and Libertie, and for protection of the oppressed Subjects of this Kingdome, and Lievtenant of the County of <hi>Yorke,</hi> is desired to grant such Commissions, for levying, leading, and con<g ref="char:EOLhyphen"/>ducting of forces in the Northerne parts, as shall bee thought requisite by his excellencie. And Sir <hi>Iohn Ho<g ref="char:EOLhyphen"/>tham</hi> Governour of <hi>Hull,</hi> is required to give all kind of
+<pb n="5" facs="tcp:197542:4"/> assistance, by the Garrison of the Towne, and by fur<g ref="char:EOLhyphen"/>nishing them with such powder, armes, and other Am<g ref="char:EOLhyphen"/>munition, as he can spare. And for the better enabling of them in this their necessary defence,</p>
+            <p>It is resolved that further supplies of Armes shall be sent thither as speedily as may be.</p>
+            <p>That the Sheriffe of the County of <hi>Yorke,</hi> and the Sheriffes of the adjoyning Counties, and all Lievte<g ref="char:EOLhyphen"/>nants, Deputy-Lievtenants, Majors, Justices of the Peace, and others his Majesties Officers and loving Sub<g ref="char:EOLhyphen"/>jects, be ayding and assisting to them in defence of his Majesties Subjects from all Oppression and Violence with the power of the Counties and Trayned Bands. That it shall be lawfull for all Lord-Lievtenants, De<g ref="char:EOLhyphen"/>puty-Lievtenants, Sheriffs, Majors, Bailiffs, and head Officers of Corporations to disarme all Popish Recu<g ref="char:EOLhyphen"/>sants, and all other his Majesties Subjects to be assisting unto them, and that it shalbe lawful for any of his Maje<g ref="char:EOLhyphen"/>sties subjects to seize upon the persons of al such as shall execute the Illegall Commission of Array, or shall be Actors and assistants in any of the afore-mentioned op<g ref="char:EOLhyphen"/>pressions and violences, or shall furnish any Horse, Armes, Money, or other Ayde or Contributions for the maintenance of this unnaturall Warre raised by His Majestie against His Parliament, and to seize upon their Horses, Armes, Money, and other Provisions, whereby they might be inabled to disturbe the peace of the Kingdome.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="declaration">
+            <pb facs="tcp:197542:5"/>
+            <head>A Declaration of the Lords, and Commons assembled in Parliament.</head>
+            <p>VVHereas the King, seduced by wicked counsell, doth make War against His Parliament and People; And for the promoting of that Warre, divers Forces both of Horse and Foot have been, and are levyed and raised by se<g ref="char:EOLhyphen"/>verall persons, and His Majesties good Subjects are most cruelly robbed, spoiled, and slain:</p>
+            <p>To the end that no man may bee misled through Ignorance, the Lords and Commons in Parliament declare, That all such persons as shall, upon any pretence whatsoever, assist His Maje<g ref="char:EOLhyphen"/>sty in this Warre, with Horse, Armes, Plate or Money, are Traytors to His Majesty, the Parlia<g ref="char:EOLhyphen"/>ment and the Kingdom, and shall be brought to condigne punishment for so high an offence.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Ordered by the Lords and Commons in Parliament, That this Declaration bee forthwith printed and published.</p>
+                        <closer>
+                           <signed>Hen Elsinge, Cler. Parl. D. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+         </div>
+      </body>
+   </text>
+</TEI>
